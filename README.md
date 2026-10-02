@@ -8,7 +8,7 @@ The study focuses on how the traditional paper-based system managed library user
 
 ## 📄 Full Report
 
-[**View the Complete 29-Page Report (PDF)**](./Study%20of%20the%20Traditional%20Physical%20Library%20Card%20System%20Used%20at%20Wayamba%20University%20of%20Sri%20Lanka.pdf)
+[**View Full Report (PDF)**](./Study%20of%20the%20Traditional%20Physical%20Library%20Card%20System%20Used%20at%20Wayamba%20University%20of%20Sri%20Lanka.pdf)
 
 ## 📚 Main Topics
 
